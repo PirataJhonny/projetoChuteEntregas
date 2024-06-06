@@ -1,0 +1,27 @@
+Nome do cliente: teste
+CNPJ: 53.803.837/0001-50
+Rua: teste
+Nº: 56
+Bairro: teste
+Cidade: teste
+Estado: teste
+CEP: 04.658-020
+
+Nome do cliente: jhonny
+CNPJ: 12.345.678/0001-01
+Rua: ANGOLA
+Nº: 45
+Bairro: TROVAO
+Cidade: ARROZ
+Estado: ATUM
+CEP: 12.345-678
+
+Nome do cliente: Abacati
+CNPJ: 12.345.678/0001-50
+Rua: JOANINHA
+Nº: 18
+Bairro: PIMENTA
+Cidade: SAO PAULO
+Estado: SAO PAULO
+CEP: 04.844-050
+

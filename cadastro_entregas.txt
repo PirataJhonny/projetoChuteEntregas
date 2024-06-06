@@ -1,0 +1,272 @@
+==== Folha de Pedido ====
+ID do Pedido: RS-05062024-2227-50-01
+Data e hora: 05062024-2227
+Remetente:
+Nome do remetente: jhonny
+CNPJ do remetente: 12.345.678/0001-01
+Rua do remetente: ANGOLA
+Número do remetente: 45
+Bairro do remetente: TROVAO
+Cidade do remetente: ARROZ
+Estado do remetente: ATUM
+CEP do remetente: 12.345-678
+
+Destinatário:
+Nome do destinatário: abacaxi
+CNPJ do destinatário: 78.945.612/0001-78
+Rua do destinatário: DADO
+Número do destinatário: 78
+Bairro do destinatário: ABACATE
+Cidade do destinatário: VELHA
+Estado do destinatário: RS
+CEP do destinatário: 45.612-352
+
+Objetos:
+Quantidade: 30, Altura: 50.0 cm, Largura: 50.0 cm, Comprimento: 42.0 cm, Peso: 3.0 kg, Cubagem Total: 3.15 cm³, Peso Total: 90.0 kg, Peso Cubado: 945.0 kg
+Quantidade: 20, Altura: 50.0 cm, Largura: 78.0 cm, Comprimento: 63.0 cm, Peso: 4.0 kg, Cubagem Total: 4.92 cm³, Peso Total: 80.0 kg, Peso Cubado: 1476.0 kg
+FimObjetos
+
+Totais:
+Quantidade Total de Volumes: 50
+Cubagem Total: 80.7 m³
+Peso Total: 170.0 kg
+Número de Carretas: 1
+Custo da Cubagem: R$ 80.7
+Distância até o destino: 1110.0 km
+Custo por Distância: R$ 2220.0
+Custo Total do Frete: R$ 2300.7
+==========================
+
+==== Folha de Pedido ====
+ID do Pedido: RS-06062024-0053-66-01
+Data e hora: 06062024-0053
+Remetente:
+Nome do remetente: jhonny
+CNPJ do remetente: 12.345.678/0001-01
+Rua do remetente: ANGOLA
+Número do remetente: 45
+Bairro do remetente: TROVAO
+Cidade do remetente: ARROZ
+Estado do remetente: ATUM
+CEP do remetente: 12.345-678
+
+Destinatário:
+Nome do destinatário: vini
+CNPJ do destinatário: 45.678.988/0001-45
+Rua do destinatário: VALENCIA
+Número do destinatário: 78
+Bairro do destinatário: OI
+Cidade do destinatário: TCHAU
+Estado do destinatário: RS
+CEP do destinatário: 45.612-378
+
+Objetos:
+Quantidade: 20, Altura: 50.0 cm, Largura: 40.0 cm, Comprimento: 30.0 cm, Peso: 2.0 kg, Cubagem Total: 1.2 cm³, Peso Total: 40.0 kg, Peso Cubado: 360.0 kg
+Quantidade: 45, Altura: 78.0 cm, Largura: 16.0 cm, Comprimento: 13.0 cm, Peso: 2.0 kg, Cubagem Total: 0.74 cm³, Peso Total: 90.0 kg, Peso Cubado: 222.0 kg
+Quantidade: 1, Altura: 45.0 cm, Largura: 23.0 cm, Comprimento: 87.0 cm, Peso: 2.0 kg, Cubagem Total: 0.1 cm³, Peso Total: 2.0 kg, Peso Cubado: 30.0 kg
+FimObjetos
+
+Totais:
+Quantidade Total de Volumes: 66
+Cubagem Total: 2.04 m³
+Peso Total: 132.0 kg
+Número de Carretas: 1
+Custo da Cubagem: R$ 20.4
+Distância até o destino: 0.0 km
+Custo por Distância: R$ 0.0
+Custo Total do Frete: R$ 2240.4
+==========================
+
+==== Folha de Pedido ====
+ID do Pedido: RS-06062024-0117-25-01
+Data e hora: 06062024-0117
+Remetente:
+Nome do remetente: jhonny
+CNPJ do remetente: 12.345.678/0001-01
+Rua do remetente: ANGOLA
+Número do remetente: 45
+Bairro do remetente: TROVAO
+Cidade do remetente: ARROZ
+Estado do remetente: ATUM
+CEP do remetente: 12.345-678
+
+Destinatário:
+Nome do destinatário: alou
+CNPJ do destinatário: 14.785.236/0009-09
+Rua do destinatário: TETEU
+Número do destinatário: 78
+Bairro do destinatário: ALIU
+Cidade do destinatário: NOTA
+Estado do destinatário: RS
+CEP do destinatário: 45.678-925
+
+Objetos:
+Quantidade: 20, Altura: 15.0 cm, Largura: 75.0 cm, Comprimento: 22.0 cm, Peso: 8.0 kg, Cubagem Total: 0.5 cm³, Peso Total: 160.0 kg, Peso Cubado: 150.0 kg
+Quantidade: 5, Altura: 78.0 cm, Largura: 61.0 cm, Comprimento: 24.0 cm, Peso: 4.0 kg, Cubagem Total: 0.58 cm³, Peso Total: 20.0 kg, Peso Cubado: 174.0 kg
+FimObjetos
+
+Totais:
+Quantidade Total de Volumes: 25
+Cubagem Total: 1.08 m³
+Peso Total: 180.0 kg
+Número de Carretas: 1
+Custo da Cubagem: R$ 10.8
+Distância até o destino: 0.0 km
+Custo por Distância: R$ 0.0
+Custo Total do Frete: R$ 2230.8
+==========================
+
+==== Folha de Pedido ====
+ID do Pedido: PR-06062024-0133-5-01
+Data e hora: 06062024-0133
+Remetente:
+Nome do remetente: jhonny
+CNPJ do remetente: 12.345.678/0001-01
+Rua do remetente: ANGOLA
+Número do remetente: 45
+Bairro do remetente: TROVAO
+Cidade do remetente: ARROZ
+Estado do remetente: ATUM
+CEP do remetente: 12.345-678
+
+Destinatário:
+Nome do destinatário: dadi
+CNPJ do destinatário: 12.345.689/0001-25
+Rua do destinatário: DODO
+Número do destinatário: 78
+Bairro do destinatário: DUDU
+Cidade do destinatário: TETEU
+Estado do destinatário: PR
+CEP do destinatário: 78.913-245
+
+Objetos:
+Quantidade: 2, Altura: 45.0 cm, Largura: 78.0 cm, Comprimento: 15.0 cm, Peso: 4.0 kg, Cubagem Total: 0.11 cm³, Peso Total: 8.0 kg, Peso Cubado: 33.0 kg
+Quantidade: 3, Altura: 456.0 cm, Largura: 78.0 cm, Comprimento: 12.0 cm, Peso: 2.0 kg, Cubagem Total: 1.29 cm³, Peso Total: 6.0 kg, Peso Cubado: 387.0 kg
+FimObjetos
+
+Totais:
+Quantidade Total de Volumes: 5
+Cubagem Total: 1.4000000000000001 m³
+Peso Total: 14.0 kg
+Número de Carretas: 1
+Custo da Cubagem: R$ 14.000000000000002
+Distância até o destino: 0.0 km
+Custo por Distância: R$ 0.0
+Custo Total do Frete: R$ 830.0
+==========================
+
+==== Folha de Pedido ====
+ID do Pedido: RS-06062024-0136-20-01
+Data e hora: 06062024-0136
+Remetente:
+Nome do remetente: jhonny
+CNPJ do remetente: 12.345.678/0001-01
+Rua do remetente: ANGOLA
+Número do remetente: 45
+Bairro do remetente: TROVAO
+Cidade do remetente: ARROZ
+Estado do remetente: ATUM
+CEP do remetente: 12.345-678
+
+Destinatário:
+Nome do destinatário: da
+CNPJ do destinatário: 12.345.678/9001-46
+Rua do destinatário: OR
+Número do destinatário: 56
+Bairro do destinatário: GJDHS
+Cidade do destinatário: FJKDSH
+Estado do destinatário: RS
+CEP do destinatário: 45.613-248
+
+Objetos:
+Quantidade: 20, Altura: 50.0 cm, Largura: 50.0 cm, Comprimento: 50.0 cm, Peso: 10.0 kg, Cubagem Total: 2.5 cm³, Peso Total: 200.0 kg, Peso Cubado: 750.0 kg
+FimObjetos
+
+Totais:
+Quantidade Total de Volumes: 20
+Cubagem Total: 2.5 m³
+Peso Total: 200.0 kg
+Número de Carretas: 1
+Custo da Cubagem: R$ 25.0
+Distância até o destino: 1110.0 km
+Custo por Distância: R$ 2220.0
+Custo Total do Frete: R$ 2245.0
+==========================
+
+==== Folha de Pedido ====
+ID do Pedido: PR-06062024-0145-50-01
+Data e hora: 06062024-0145
+Remetente:
+Nome do remetente: jhonny
+CNPJ do remetente: 12.345.678/0001-01
+Rua do remetente: ANGOLA
+Número do remetente: 45
+Bairro do remetente: TROVAO
+Cidade do remetente: ARROZ
+Estado do remetente: ATUM
+CEP do remetente: 12.345-678
+
+Destinatário:
+Nome do destinatário: ole
+CNPJ do destinatário: 12.345.658/0001-23
+Rua do destinatário: OLA
+Número do destinatário: 78
+Bairro do destinatário: LELU
+Cidade do destinatário: LALA
+Estado do destinatário: PR
+CEP do destinatário: 78.945-612
+
+Objetos:
+Quantidade: 50, Altura: 90.0 cm, Largura: 80.0 cm, Comprimento: 30.0 cm, Peso: 4.0 kg, Cubagem Total: 10.8 cm³, Peso Total: 200.0 kg, Peso Cubado: 3240.0 kg
+FimObjetos
+
+Totais:
+Quantidade Total de Volumes: 50
+Cubagem Total: 10.8 m³
+Peso Total: 200.0 kg
+Número de Carretas: 1
+Custo da Cubagem: R$ 108.0
+Distância até o destino: 408.0 km
+Custo por Distância: R$ 816.0
+Custo Total do Frete: R$ 924.0
+==========================
+
+==== Folha de Pedido ====
+ID do Pedido: PR-06062024-1821-82-01
+Data e hora: 06062024-1821
+Remetente:
+Nome do remetente: jhonny
+CNPJ do remetente: 12.345.678/0001-01
+Rua do remetente: ANGOLA
+Número do remetente: 45
+Bairro do remetente: TROVAO
+Cidade do remetente: ARROZ
+Estado do remetente: ATUM
+CEP do remetente: 12.345-678
+
+Destinatário:
+Nome do destinatário: teteu
+CNPJ do destinatário: 45.612.388/0001-46
+Rua do destinatário: ALIOU
+Número do destinatário: 56
+Bairro do destinatário: BAILO
+Cidade do destinatário: DAID
+Estado do destinatário: PR
+CEP do destinatário: 75.362-456
+
+Objetos:
+Quantidade: 80, Altura: 50.0 cm, Largura: 50.0 cm, Comprimento: 30.0 cm, Peso: 2.0 kg, Cubagem Total: 6.0 cm³, Peso Total: 160.0 kg, Peso Cubado: 1800.0 kg
+Quantidade: 2, Altura: 50.0 cm, Largura: 46.0 cm, Comprimento: 54.0 cm, Peso: 1.0 kg, Cubagem Total: 0.25 cm³, Peso Total: 2.0 kg, Peso Cubado: 75.0 kg
+FimObjetos
+
+Totais:
+Quantidade Total de Volumes: 82
+Cubagem Total: 6.25 m³
+Peso Total: 162.0 kg
+Número de Carretas: 1
+Custo da Cubagem: R$ 62.5
+Distância até o destino: 408.0 km
+Custo por Distância: R$ 816.0
+Custo Total do Frete: R$ 878.5
+==========================
+
